@@ -7,6 +7,13 @@ using BOL;
 using System.Data;
 using MySql.Data.MySqlClient;
 
+
+//changes in DAL
+//hii
+//uddesh
+//jadhav
+//what is going on
+//dont knowitdb
 namespace DAL
 {
     public class EmployeDal
